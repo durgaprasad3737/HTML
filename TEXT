@@ -1,0 +1,15 @@
+<!-- This will be an simple HTMl page that will demonstrate the TEXT markup -->
+
+<html>
+    <head> 
+        <title> Text</title>
+    </head>
+    <body> 
+        <h1>The Story in the Book</h1>
+        <h2>Chapter 1 </h2>
+        <p>Molly had been staring out of her window for about an hour now.On her desk ,lying between the copies of the <i>Nature</i>,<i>New Scientiest</i>
+        and all other scientific journals her work had appear in, was a well thumbed copy of <cite>On the Road</cite>.It had been <i>Molly</i>'s favourite book since college.and the longer she spent in these four walls the more she felt she needed to be freex</p>
+        
+        <p>She had spent the last ten years in this room,sitting under a poster with an Oscsar while quote proclaiming that<br><q>Work is the refuge of people who have nothing better to do.</q> <br>although many consider her pioneering work,unravelling the secret of llama <abbr title ="Deoxyribonucleic acid">DNA</abbr>to be an outstanding achievement,Molly <em>did</eM> she had nothing better to do</en></p>
+    </body>
+</html>
